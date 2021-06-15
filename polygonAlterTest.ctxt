@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=polygonAlterTest
+comment1.params=condition\ statement\ expected\ actual
+comment1.target=void\ DO_TEST(boolean,\ java.lang.String,\ java.lang.Object,\ java.lang.Object)
+comment2.params=value\ expected
+comment2.target=boolean\ check_double(double,\ double)
+comment3.params=points
+comment3.target=java.util.Vector\ parse_points(Point[])
+comment4.params=text
+comment4.target=boolean\ check_toString_spaces(java.lang.String)
+comment5.params=text\ points
+comment5.target=boolean\ check_toString_regex(java.lang.String,\ Point[])
+comment6.params=text\ num
+comment6.target=java.lang.String\ check_toString_without_points(java.lang.String,\ int)
+comment7.params=text\ points
+comment7.target=polygonAlterTest.toStringErrorCode\ check_toString(java.lang.String,\ Point[])
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9
